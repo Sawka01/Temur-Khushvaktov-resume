@@ -14,7 +14,9 @@ Developing Audiobook player.
 Developed Pedometer Pro app for Apple Watch.
 
 - Developed app UI using SwiftUI.
-- Created 10+ complications with HealthKit framework, where display Calories, Distance, Time, Goal.
+- Created 10+ complications, where display Calories, Distance, Time, Goal.
+- Calories, Distance, Running time gets from HealthKit.
+- Created daily, weekly data screens with SwiftUI.
 
 Shorcut app for iPhone.
 
