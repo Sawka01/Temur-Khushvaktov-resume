@@ -20,7 +20,7 @@ Developed Pedometer Pro app for Apple Watch.
 
 Shortcut app for iPhone.
 
-- Created Shorcuts grid (100% programmatic UI).
+- Created Shortcuts grid (100% programmatic UI).
 - Created How free trial works, Manage subscriptions, Rate us screens (100% programmatic UI).
 
 Smartie - Games for toddlers 2-5.
