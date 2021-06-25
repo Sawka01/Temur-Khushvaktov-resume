@@ -18,7 +18,7 @@ Developed Pedometer Pro app for Apple Watch.
 - Calories, Distance, Running time gets from HealthKit.
 - Created daily, weekly data screens with SwiftUI.
 
-Shorcut app for iPhone.
+Shortcut app for iPhone.
 
 - Created Shorcuts grid (100% programmatic UI).
 - Created How free trial works, Manage subscriptions, Rate us screens (100% programmatic UI).
