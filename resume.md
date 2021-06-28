@@ -11,6 +11,10 @@ Developing Audiobook player.
 
 - Soon.
 
+Smartie - Games for toddlers 2-5.
+
+- Created new games: Monsters, Professions with SpriteKit framework.
+
 Developed Pedometer Pro app for Apple Watch.
 
 - Developed app UI using SwiftUI.
@@ -22,10 +26,6 @@ Shortcut app for iPhone.
 
 - Created Shortcuts grid (100% programmatic UI).
 - Created How free trial works, Manage subscriptions, Rate us screens (100% programmatic UI).
-
-Smartie - Games for toddlers 2-5.
-
-- Created new games: Monsters, Professions with SpriteKit framework.
 
 EDUCATION
 - 
