@@ -7,9 +7,9 @@ EXPERIENCE
 **Remote, January, 2021 – Present <br>
 iOS Developer**
 
-Developing Audiobook player.
+[Tingla BM24 - Audio books](https://apps.apple.com/uz/app/tingla-bm24-audio-kitob/id1571272518).
 
-- Soon.
+- Developed using MVP architecture.
 
 Smartie - Games for toddlers 2-5.
 
