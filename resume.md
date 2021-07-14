@@ -22,11 +22,6 @@ Developed Pedometer Pro app for Apple Watch.
 - Calories, Distance, Running time gets from HealthKit.
 - Created daily, weekly data screens with SwiftUI.
 
-Shortcut app for iPhone.
-
-- Created Shortcuts grid (100% programmatic UI).
-- Created How free trial works, Manage subscriptions, Rate us screens (100% programmatic UI).
-
 EDUCATION
 - 
 **Saint Petersburg Electrotechnical University, 2019 – 2020** <br>
