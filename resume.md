@@ -2,6 +2,10 @@
 ### iOS Developer
 [GitHub](https://github.com/Sawka01) | [LinkedIn](http://www.linkedin.com/in/sawkauz) | [Email](mailto:8744934@gmail.com)
 
+SUMMARY
+-
+I aim to get new knowledge, the opportunity to show my skills and work with a responsive team.
+
 EXPERIENCE
 -
 **Remote, January, 2021 – Present <br>
