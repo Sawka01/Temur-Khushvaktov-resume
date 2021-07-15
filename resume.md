@@ -9,7 +9,7 @@ iOS Developer**
 
 [Tingla BM24 - Audio books](https://apps.apple.com/uz/app/tingla-bm24-audio-kitob/id1571272518).
 
-- Collaborated with designers and implemented 100% programmatic UI in Swift using UIKit.
+- Soon.
 
 Smartie - Games for toddlers 2-5.
 
