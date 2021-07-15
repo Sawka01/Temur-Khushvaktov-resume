@@ -7,7 +7,7 @@ EXPERIENCE
 **Remote, January, 2021 – Present <br>
 iOS Developer**
 
-Designed and implemented iOS app [Tingla BM24 - Audio books](https://apps.apple.com/uz/app/tingla-bm24-audio-kitob/id1571272518).
+[Tingla BM24 - Audio books](https://apps.apple.com/uz/app/tingla-bm24-audio-kitob/id1571272518).
 
 - Soon.
 
