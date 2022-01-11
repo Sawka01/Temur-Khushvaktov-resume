@@ -8,23 +8,26 @@ I aim to get new knowledge, the opportunity to show my skills and work with a re
 
 EXPERIENCE
 -
-**Remote, January, 2021 – Present <br>
+**Remote, January, 2021 – September, 2021 <br>
 iOS Developer**
 
-[Tingla BM24 - Audio books](https://apps.apple.com/uz/app/tingla-bm24-audio-kitob/id1571272518).
+[Tingla: Audio books](https://apps.apple.com/uz/app/tingla-bm24-audio-kitob/id1571272518).
 
-- Soon.
+- Implemented a mechanism for playing audiobooks using the AVFoundation and MediaPlayer frameworks.
+- Designed and implemented 100% programmatic UI in Swift using UIKit.
+- Implemented a QR code scanner for audiobook playback.
+- Saved 120 developer hours by documenting code, that speed up development by 50%.
+- Applied clean code/architecture best practices on work. Followed RedMadRobot Swift style guide.
+
+Pedometer Pro app for watchOS.
+
+- Developed app UI using SwiftUI.
+- Implemented 10+ complications, where display Calories, Distance, Time, Goal.
+- Implemented screens with daily and weekly health data, receiving data using the HealthKit framework.
 
 Smartie - Games for toddlers 2-5.
 
-- Created new games: Monsters, Professions with SpriteKit framework.
-
-Developed Pedometer Pro app for Apple Watch.
-
-- Developed app UI using SwiftUI.
-- Created 10+ complications, where display Calories, Distance, Time, Goal.
-- Calories, Distance, Running time gets from HealthKit.
-- Created daily, weekly data screens with SwiftUI.
+- Developed and implemented new games: Monsters, Professions with SpriteKit framework.
 
 EDUCATION
 - 
