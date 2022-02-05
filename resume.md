@@ -4,6 +4,17 @@
 
 EXPERIENCE
 -
+
+**Surf, September, 2021 – Present <br>
+iOS Developer**
+
+[Burger King](https://apps.apple.com/RU/app/id1257821028?mt=8).
+
+- Collaborated with designers and redesigned the app.
+- Reduced app's size by 10% by removing unnecessary dependencies and using native libraries whenever possible.
+- Implemented SwiftLint policies with 40+ rules to help create a cohesive and efficient codebase
+- Applied clean code/architecture best practices on work. Followed Surf’s Swift style guide.
+
 **Remote, January, 2021 – September, 2021 <br>
 iOS Developer**
 
